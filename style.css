@@ -1,0 +1,20 @@
+#global{
+    border: 1pix;
+    background-color:purple;
+    height: 1000px;
+}
+
+#header{
+    border: 1px;
+    background: palevioletred;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+}
+#contenu{
+    border: 1px;
+    background: palevioletred;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+}
